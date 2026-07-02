@@ -1,16 +1,49 @@
 ## Hi there 👋
+<h1 align="center">Hi 👋, I'm Aryan Ruikar</h1>
 
-<!--
-**Aryan-Ruikar/Aryan-Ruikar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">⚙️ Mechanical & Mechatronics Engineering Student</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+Learning C • Python • Git • GitHub • Robotics 🤖
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 👨‍💻 About Me
+
+- 🎓 Mechanical & Mechatronics Engineering Student
+- 🌱 Currently learning C Programming and Python
+- 🤖 Interested in Robotics, Automation and Embedded Systems
+- 🚀 Goal: Build real-world engineering projects
+- 📍 Maharashtra, India
+
+---
+
+## 🛠️ Skills
+
+- C
+- Python
+- Git
+- GitHub
+- VS Code
+
+---
+
+## 🎯 Current Goals
+
+- Learn Data Structures
+- Improve Programming Skills
+- Build GitHub Projects
+- Contribute to Open Source
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aryan-Ruikar&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aryan-Ruikar&layout=compact&theme=tokyonight)
+
+---
+
+⭐ **"Learning today, Building tomorrow."**
